@@ -68,7 +68,7 @@ export default function Home() {
                       <p className="text-sm leading-[150%] font-normal tracking-normal text-[#8B6990] md:text-base md:leading-6">
                         Frontend Mentor offers realistic coding challenges to
                         help developers improve their frontend coding skills
-                        with projects in HTML, CSS, and JavaScript. It's
+                        with projects in HTML, CSS, and JavaScript. It&apos;s
                         suitable for all levels and ideal for portfolio
                         building.
                       </p>
@@ -107,8 +107,8 @@ export default function Home() {
                     <dd>
                       <p className="text-sm leading-[150%] font-normal tracking-normal text-[#8B6990] md:text-base md:leading-6">
                         Yes, you can use projects completed on Frontend Mentor
-                        in your portfolio. It's an excellent way to showcase
-                        your skills to potential employers!
+                        in your portfolio. It&apos;s an excellent way to
+                        showcase your skills to potential employers!
                       </p>
                     </dd>
                   </AccordionContent>
@@ -119,17 +119,17 @@ export default function Home() {
                 <div>
                   <dt>
                     <AccordionTrigger className="text-base leading-normal font-semibold tracking-normal text-[#301534] transition-colors duration-300 ease-in-out hover:text-[#AD28EB] md:text-lg md:leading-[1.3125rem]">
-                      How can I get help if I'm stuck on a Frontend Mentor
+                      How can I get help if I&apos;m stuck on a Frontend Mentor
                       challenge?
                     </AccordionTrigger>
                   </dt>
                   <AccordionContent asChild>
                     <dd>
                       <p className="text-sm leading-[150%] font-normal tracking-normal text-[#8B6990] md:text-base md:leading-6">
-                        The best place to get help is inside Frontend Mentor's
-                        Discord community. There's a help channel where you can
-                        ask questions and seek support from other community
-                        members.
+                        The best place to get help is inside Frontend
+                        Mentor&apos;s Discord community. There&apos;s a help
+                        channel where you can ask questions and seek support
+                        from other community members.
                       </p>
                     </dd>
                   </AccordionContent>
